@@ -29,7 +29,7 @@ This project showcases practical SQL queries using the Classic Models sample dat
 3. Run queries and explore insights.
 
 ## 📸 Screenshot
-![ERD](images/erd_diagram.jpg)
+![ERD](classicmodels_schema.jpg)
 
 ## 📚 License
 MIT License
